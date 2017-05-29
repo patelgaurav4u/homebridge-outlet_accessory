@@ -1,0 +1,23 @@
+{
+  "name": "homebridge-outlet_accessory",
+  "version": "1.0.0",
+  "description": "mqtt outlet",
+  "main": "index.js",
+  "dependencies": {
+    "mqtt": "^1.6.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": ">4.0.0",
+    "homebridge": ">=0.2.0"
+  },
+  "keywords": [
+    "mqtt",
+    "homebridge-plugin"
+  ],
+  "author": "gk",
+  "license": "ISC"
+}
